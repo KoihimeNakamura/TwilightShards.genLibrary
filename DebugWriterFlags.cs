@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace TwilightShards.genLibrary
+﻿namespace TwilightShards.genLibrary
 {
+    using System;
+    using System.Collections.Generic;
+        
     /// <summary>
     /// This enum contains the flags used to tell the writer what level of output we are using.
     /// </summary>

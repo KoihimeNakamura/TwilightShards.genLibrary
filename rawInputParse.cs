@@ -2,8 +2,6 @@
 {
     using System;
     using System.Collections.Generic;
-    using System.Text;
-    using System.Text.RegularExpressions;
 
     /// <summary>
     /// This class contains functions designed to read raw input and return a valid output for options 

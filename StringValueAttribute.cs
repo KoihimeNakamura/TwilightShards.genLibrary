@@ -4,10 +4,7 @@
 namespace TwilightShards.genLibrary
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    
+
     /// <summary>
     /// This is an attribute that allows for a String to be added to an element.
     /// </summary>

@@ -1,9 +1,9 @@
-﻿using System;
-using System.IO;
-using System.Text;
-
-namespace TwilightShards.genLibrary
+﻿namespace TwilightShards.genLibrary
 {
+    using System;
+    using System.IO;
+    using System.Text;
+
     /// <summary>
     /// This class provides debug writing logic.
     /// </summary>
